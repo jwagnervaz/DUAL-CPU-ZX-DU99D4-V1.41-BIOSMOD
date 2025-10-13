@@ -1,9 +1,9 @@
 
-THIS BIOS VERSION IS A PORT I MADE FOR OLD BOARDS WITH 4304 OR OLDER BIOS VERSION
-DONT FLASH INTO A 4305 OR NEWER CAUSE IT WILL BRICK YOUR BIOS AND YOU WILL NEED CH341 FOR UNBRICK.
+THIS BIOS VERSION IS A PORT I MADE FOR REV 1.41 WITH 4305 OR NEWER BIOS VERSION
+DONT FLASH INTO A 4304 OR OLDER CAUSE IT WILL BRICK YOUR BIOS AND YOU WILL NEED CH341 FOR UNBRICK.
 
 My ports only WORKS WITH
-v1.11 v1.12 and 1.31v and lower revs.
+REV 1.41V
 
 new revs  like 1.41 and others not compatible . 
 if you wanna a port, considere to DONATE.
@@ -75,12 +75,10 @@ There are two types of ZX-DU99D4 motherboards with significant hardware differen
 - To identify your BIOS version, check it in your BIOS settings. hit (DEL) when turn your PC on and discover your version.
 
 **Compatibility Update:**
-- I've created a port for motherboards with BIOS versions older than (05/06/2023) ZX-DU99D4 DU994304.  [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/PORT-VERSION-4304-OR-OLDER)
-- This allows older motherboard owners to use newer BIOS versions like (03/06/2024)ZX-DU99D4 V1.3 DU994306  [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/PORT-VERSION-4304-OR-OLDER)
+- I've created a port for motherboards with BIOS versions older than (05/06/2023) ZX-DU99D4 DU994304. REV 1.31 V and OLDER  [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/PORT-VERSION-4304-OR-OLDER)
+- This allows older motherboard owners to use newer BIOS versions like (03/06/2024)ZX-DU99D4 V1.3 DU994306 REV 1.41 [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.41-BIOSMOD/)
 -  ZX-DU99D4 DU994305 AND NEWER DONT FLASH BIOS FROM HERE. I WILL DO MODS FOR THIS VERSION SOON AS POSSIBLE.
 
-LASTEST BIOS FOR DU994304 AND OLDERS VERSIONS  [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/PORT-VERSION-4304-OR-OLDER)
----
 
 
 1- IM NOT REPONSSABLE FOR DAMAGES IN YOUR MOTHERBOARD, SO HAVE YOUR OWN DUMP AND A PROGRAMMER CH341 IF FOR SOME REASON YOU GET A BRICK
