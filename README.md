@@ -62,10 +62,10 @@ People like that can change the world!
 
 There are two types of ZX-DU99D4 motherboards with significant hardware differences based on their BIOS versions:
 
-1. **For motherboards with BIOS versions equal to or older than (05/06/2023) ZX-DU99D4 DU994304:**
+1. **For motherboards with BIOS versions equal to or older than (05/06/2023) ZX-DU99D4 DU994304:** REVISION V 1.31 AND OLDER
    - You must first backup your BIOS using FPT. Download it [here](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/blob/main/FPT/FPT.zip) (Note: AFUWIN does not create a full backup BIOS).
 
-2. **For motherboards with BIOS versions equal to or newer than (10/30/2023) ZX-DU99D4 DU994305:**
+2. **For motherboards with BIOS versions equal to or newer than (10/30/2023) ZX-DU99D4 DU994305:** REVISION V 1.41 
    - You must first backup your BIOS using FPT. Download it [here](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/blob/main/FPT/FPT.zip) (Note: AFUWIN does not create a full backup BIOS).
    - These have different hardware and BIOS compatibility.
 
@@ -75,8 +75,8 @@ There are two types of ZX-DU99D4 motherboards with significant hardware differen
 - To identify your BIOS version, check it in your BIOS settings. hit (DEL) when turn your PC on and discover your version.
 
 **Compatibility Update:**
-- I've created a port for motherboards with BIOS versions older than (05/06/2023) ZX-DU99D4 DU994304. REV 1.31 V and OLDER  [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/tree/main/PORT-VERSION-4304-OR-OLDER)
-- This allows older motherboard owners to use newer BIOS versions like (03/06/2024)ZX-DU99D4 V1.3 DU994306 REV 1.41 [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.41-BIOSMOD/)
+- I've created a port for motherboards with BIOS versions older than (05/06/2023) ZX-DU99D4 DU994304. REV 1.31 V and OLDER  [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.31-BIOSMOD/)
+- This allows older motherboard owners to use newer BIOS versions like (03/06/2024)ZX-DU99D4 V1.4 DU994306 REV 1.41 [(HERE)](https://github.com/jwagnervaz/DUAL-CPU-ZX-DU99D4-V1.41-BIOSMOD/)
 -  ZX-DU99D4 DU994305 AND NEWER DONT FLASH BIOS FROM HERE. I WILL DO MODS FOR THIS VERSION SOON AS POSSIBLE.
 
 
