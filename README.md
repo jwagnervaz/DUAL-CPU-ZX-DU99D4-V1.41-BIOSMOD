@@ -5,7 +5,7 @@ DONT FLASH INTO A 4304 OR OLDER CAUSE IT WILL BRICK YOUR BIOS AND YOU WILL NEED 
 My ports only WORKS WITH
 REV 1.41V
 
-new revs  like 1.41 and others not compatible . 
+new revs maybe can be not compatible . 
 if you wanna a port, considere to DONATE.
 
 
