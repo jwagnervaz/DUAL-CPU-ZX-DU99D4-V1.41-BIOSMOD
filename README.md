@@ -13,9 +13,9 @@ Fixes:
 New 152 With Bootsecure Port and TPM2 fix.
 
 
-1 - Bootsecure
+1 - Bootsecure ( 1st in the World! )
 
-2 - TPM support
+2 - TPM support ( 1st in the World! )
 
 3 - Edk2 Shell Built-in  ( Flash Bios without SO and more)
 
